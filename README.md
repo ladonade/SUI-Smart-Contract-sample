@@ -1,1 +1,1 @@
-# SUI-Smart-Contract-sample
+# SUI Smart Contract sample
